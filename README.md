@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![oallo](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={oallo})](https://solved.ac/{oallo})
 <!--
 **Woo02in/Woo02in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
