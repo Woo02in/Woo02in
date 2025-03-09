@@ -3,7 +3,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=oallo)](https://solved.ac/oallo)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woo02in)](https://github.com/Woo02in/github-readme-stats)
   
 
 
