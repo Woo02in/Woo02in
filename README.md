@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <div align="center">
+  <div align="left">
     <h2>Choiwooin</h2>
     <br>
     <img src="https://img.shields.io/badge/GitHub-46%20%2F%202536-black?style=for-the-badge&logo=github"/>
