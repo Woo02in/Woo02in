@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Wooin's%20GitHub%20Profile&descAlignY=54&descSize=22&descAlign=61)
 
 
-<div align="center">
+
   <div align="left">
     <div align="center">
       <h2>Choiwooin</h2>
@@ -12,7 +12,7 @@
   </div>
 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woo02in&layout=compact&theme=tokyonight" />
-</div>
+
 
 
 
