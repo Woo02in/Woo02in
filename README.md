@@ -7,8 +7,9 @@
       <img src="http://mazassumnida.wtf/api/generate_badge?boj=oallo"/>
     </div>
   </div>
-
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woo02in&layout=compact&theme=tokyonight" />
+  <div align="right">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woo02in&layout=compact&theme=tokyonight" />
+  </div>
 
 
 
