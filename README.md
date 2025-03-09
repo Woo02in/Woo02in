@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Wooin's%20GitHub%20Profile&descAlignY=54&descSize=22&descAlign=61)
 
 
-
-  <div align="left">
-    <div align="center">
+<div align="center">
+  <div align="left">    
         <h2>Choiwooin</h2>
       <br>
       <img src="https://img.shields.io/badge/GitHub-46%20%2F%202536-black?style=for-the-badge&logo=github"/>
