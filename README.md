@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Wooin's%20GitHub%20Profile&descAlignY=54&descSize=22&descAlign=61)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woo02in&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woo02in&layout=compact)]
+(https://github.com/깃허브아이디/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=oallo)](https://solved.ac/oallo)
