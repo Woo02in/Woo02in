@@ -4,12 +4,11 @@
 <div align="center">
   <div align="left">    
         <h3>             Choiwooin </h3>
-      <img src="http://mazassumnida.wtf/api/generate_badge?boj=oallo"/>
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=oallo"/>
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woo02in&layout=compact&theme=tokyonight" />
     </div>
   </div>
-  <div align="right">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woo02in&layout=compact&theme=tokyonight" />
-  </div>
+  
 
 
 
