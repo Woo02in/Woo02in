@@ -3,10 +3,7 @@
 
 <div align="center">
   <div align="left">    
-        <h2>Choiwooin</h2>
-      <div align ="left">
-        <br>      
-      </div>
+        <h2>Choiwooin</h2>    
       <img src="http://mazassumnida.wtf/api/generate_badge?boj=oallo"/>
     </div>
   </div>
