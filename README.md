@@ -2,11 +2,13 @@
 
 
 <div align="center">
-  <div align="left">
-    ChoiWooin!
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=oallo" height="30"/>
-    <img src="https://img.shields.io/badge/GitHub-46%20%2F%202536-black?style=for-the-badge&logo=github" height="30"/>
+  <div align="center">
+    <h2>Choiwooin</h2>
+    <br>
+    <img src="https://img.shields.io/badge/GitHub-46%20%2F%202536-black?style=for-the-badge&logo=github"/>
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=oallo"/>
   </div>
+
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woo02in&layout=compact&theme=tokyonight" />
 </div>
 
