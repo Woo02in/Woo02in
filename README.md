@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <h3 align="left" style="margin-left: 50px;">Choiwooin</h3>
+    <h3 align="left" style="margin-left: 50;">Choiwooin</h3>
     <img align="left" src="http://mazassumnida.wtf/api/generate_badge?boj=oallo"/>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woo02in&layout=compact&theme=tokyonight" />    
 </div>
